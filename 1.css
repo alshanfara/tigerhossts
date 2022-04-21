@@ -17,8 +17,7 @@
 
 .label-primary, .btn-primary {
     background-color: #583c7f!important;
-	    border: 1px solid transparent;
-}
+    border: 1px solid white;}
 
 
 .ae.label.label-primary.fa.fa-gear {
