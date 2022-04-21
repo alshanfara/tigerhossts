@@ -126,12 +126,12 @@ div#l2 button {
 }
 
 label.fl.label.loginstat {
- border-radius: 15px!important;
+    border-radius: 15px!important;
     position: absolute;
     margin-top: 2px;
     margin-left: -1px!important;
-    margin: 1px -8px 3px -212px!important;
-	background: #b587f470!important;
+    margin: 1px -8px 3px -189px!important;
+    background: #b587f470!important;
     height: 20px!important;
 }
 
