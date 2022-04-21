@@ -130,8 +130,8 @@ label.fl.label.loginstat {
     position: absolute;
     margin-top: 2px;
     margin-left: -1px!important;
-    margin: 1px -4px 3px -228px!important;
-    background: #b587f470!important;
+    margin: 1px -8px 3px -212px!important;
+	background: #b587f470!important;
     height: 20px!important;
 }
 
@@ -190,7 +190,7 @@ a.label.label-primary.fl img.fl,button.btn.fr.btn-success.fa.fa-refresh,div#l2 b
 }
 
 label.label.label-primary.mini.fl {
-    width: 58.5%!important;
+    width: 57%!important;
     padding: 1px;
     margin-top: 0;
     border-radius: 15px!important
