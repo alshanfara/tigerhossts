@@ -136,12 +136,12 @@ div#l2 button {
 label.fl.label.loginstat {
     border-radius: 15px!important;
     position: absolute;
-    margin-top: 2px;
+    
     margin-left: -1px!important;
-    margin: 1px -8px 3px -189px!important;
-    background: #b587f470!important;
+    
+    
     height: 20px!important;
-}
+margin: 2px 0px 1px 2px !important;background: #8a8a8a;}
 
 div.label.label-primary {
     font-family: none!important
