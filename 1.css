@@ -17,18 +17,31 @@
 
 .label-primary, .btn-primary {
     background-image: linear-gradient(90deg,#949494 0,#949494 10%,#808080 51%,#949494 89%,#7e7e7e 100%)!important;
-    border: 1px solid white;}
+    border: 0px solid white;}
 
 
 .ae.label.label-primary.fa.fa-gear {
-    color: #ffd900
-}
+    color: #ffd900;border-radius: 5px!important;}
 
 .border {
 	border: 1px solid transparent;
     border-radius: 15px
 }
+.minix.badge.border{
+border:1px;
 
+    
+}
+.ae.fa.label.fa-commenting-o.label-warning{
+
+    border:1px;
+    background:#F44336
+}
+.label.tc.border{
+border:1px solid #c2c2c2!important;
+
+    
+}
 .fr.borderg, .fr.borderg a {
     border-radius: 15px!important;
     color: #4e4e4e;
@@ -38,9 +51,7 @@
     background-color: #e3ddec;
 }
 
-.bg {
-    background-color: #9c86bb;
-}
+
 
 #des3,#des4 {
     text-align: center!important
@@ -171,7 +182,7 @@ a.label.label-primary.fl img.fl,button.btn.fr.btn-success.fa.fa-refresh,div#l2 b
 
 .fr.co,div#tlogins img.fr.co {
     border-radius: 3px!important;
-    height: 10px;}
+    /* height: 10px; */}
 
 .checkbox {
     margin-top: 3px!important;
