@@ -13,7 +13,7 @@
 
 
 .label-primary, .btn-primary {
-    background-image: linear-gradient(90deg,#949494 0,#949494 10%,#808080 51%,#949494 89%,#7e7e7e 100%)!important;
+    background-image: linear-gradient(90deg,#c91a4f 0,#f32068 10%,#c91a4f 51%,#f02067 89%,#c91a4f 100%)!important;
     border: 0px solid white;}
 
 
@@ -55,7 +55,7 @@ dadada {
 }
 
 #des4, label.label.label-primary.mini.fl {
-    background-image: linear-gradient(90deg,#949494 0,#949494 10%,#808080 51%,#949494 89%,#7e7e7e 100%)!important;
+    background-image: linear-gradient(90deg,#c91a4f 0,#f32068 10%,#c91a4f 51%,#f02067 89%,#c91a4f 100%)!important;
 }
 
 
@@ -244,7 +244,7 @@ div#tlogins .fl.mini.u-msg {
 ul.nav.nav-tabs>li>a {
     color: #fff;
     border: none;
-    background-image: linear-gradient(90deg,#949494 0,#949494 10%,#808080 51%,#949494 89%,#7e7e7e 100%)!important;
+    background-image: linear-gradient(90deg,#c91a4f 0,#f32068 10%,#c91a4f 51%,#f02067 89%,#c91a4f 100%)!important;
     border-radius: 3px;
     display: initial;
     width: 80%;
@@ -254,7 +254,7 @@ text-align: center;}
 
 ul.nav.nav-tabs>li.active>a {
     color: #fff;
-    background-image: linear-gradient(90deg,#949494 0,#949494 10%,#808080 51%,#949494 89%,#7e7e7e 100%)!important;
+    background-image: linear-gradient(90deg,#c91a4f 0,#f32068 10%,#c91a4f 51%,#f02067 89%,#c91a4f 100%)!important;
     border: none;
     border-radius: 3px;
 text-align: center;}
@@ -313,6 +313,6 @@ div#tlogins .hand.nosel.fl.uzr.border {
 }
 
 #des0 {
-	background-image: linear-gradient(90deg,#949494 0,#949494 10%,#808080 51%,#949494 89%,#7e7e7e 100%);
+	background-image: linear-gradient(90deg,#c91a4f 0,#f32068 10%,#c91a4f 51%,#f02067 89%,#c91a4f 100%)!important;
 
 }
